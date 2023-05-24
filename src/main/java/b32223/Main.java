@@ -102,7 +102,7 @@ public class Main {
             em.persist(poisson3);
 
             Cat chat1 = new Cat();
-            chat1.setChipId("7777");
+            chat1.setChipId("123456789");
             chat1.setBirth(LocalDate.now());
             chat1.setCouleur("Rouge");
             chat1.setPetStore(petStore1);
