@@ -4,14 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac939c47-6984-4f94-92c3-0d0ae0d82ea0" name="Changes" comment="" />
+    <list default="true" id="ac939c47-6984-4f94-92c3-0d0ae0d82ea0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/b32223/EntityManager/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/b32223/EntityManager/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/b32223/EntityManager/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/b32223/EntityManager/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/b32223/EntityManager/FishLivEnv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/b32223/EntityManager/PetStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/b32223/EntityManager/ProdType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/b32223/EntityManager/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/b32223/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/b32223/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2QEKHvXXLiinUF6sR58gvVOaIm8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -24,9 +49,35 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Exercise Visual Studio/ProjetPet/src/main/resources/META-INF",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Exercise Visual Studio\ProjetPet\src\main\resources\META-INF" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="PetStore" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="PetStore" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,11 +86,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684913219428</updated>
-      <workItem from="1684913220540" duration="4000" />
+      <workItem from="1684913220540" duration="11606000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
